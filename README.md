@@ -22,7 +22,7 @@ O programa foi desenvolvido em linguagem C com o objetivo de aplicar conceitos d
 
 - `TrabalhoM1.c` → Código principal
 - `fluxograma.png` → Fluxograma do sistema
-- PDFs → Documentação do trabalho
+- PDFs → Tabelas Verdade
 
 ## Integrantes
 
