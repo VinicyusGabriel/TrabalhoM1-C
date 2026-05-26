@@ -94,17 +94,6 @@ Média Final = (PS × 0.4) + (ENEM × 0.3) + (EM × 0.3)
 
 ---
 
-# Estrutura do Projeto
-
-```txt
-.
-├── TrabalhoM1.c
-├── README.md
-└── Imagens/
-```
-
----
-
 # Conceitos Aplicados
 
 - Lógica proposicional
@@ -129,13 +118,13 @@ Média Final = (PS × 0.4) + (ENEM × 0.3) + (EM × 0.3)
 ## Compilar
 
 ```bash
-gcc TrabalhoM1.c -o TrabalhoM1
+gcc TrabalhoM1.c -o app.exe
 ```
 
 ## Executar
 
 ```bash
-./TrabalhoM1
+./app.exe
 ```
 
 ---
