@@ -155,4 +155,4 @@ O sistema exibirá:
 # Universidade
 
 Universidade do Vale do Itajaí - UNIVALI
-Disciplina de Lógica de Programação
+Disciplina de Algoritmos e Lógica de Programação
